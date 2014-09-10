@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name="ImageActivity"></activity>
+        <activity android:name="Edit_pang"></activity>
     </application>
 
 </manifest>

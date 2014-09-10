@@ -22,7 +22,7 @@
     </LinearLayout>
 
     <TextView
-        android:id="@+id/textView1"
+        android:id="@+id/txt1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/linearLayout1"
@@ -34,11 +34,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="false"
-        android:layout_below="@id/textView1"
+        android:layout_below="@id/txt1"
         android:layout_marginLeft="100dp" >
 
         <Button
-            android:id="@+id/button1"
+            android:id="@+id/btnedit"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:text="Edit Profile" />
@@ -58,7 +58,7 @@
         android:background="#cccccc" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/txt2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/view1"
@@ -75,7 +75,7 @@
         android:background="#cccccc" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/txt3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/View01"
@@ -83,7 +83,7 @@
         android:text="Name" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/txt4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/View01"
@@ -100,7 +100,7 @@
         android:background="#cccccc" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/txt5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/View02"
